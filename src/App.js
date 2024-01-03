@@ -9,11 +9,12 @@ import { Routes, Route } from 'react-router-dom';
 
 function App() {
   return (
-      <Routes>
+    /*  <Routes>
         <Route path="/" element={<Homepage />} />
         <Route path="/movie/:id" element={<Moviepage />} />
         <Route path='/plays' element={<Plays/>} />
-      </Routes>
+     
+      </Routes> */
   );
 }
 
